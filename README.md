@@ -1,1 +1,2 @@
 # React-Stripe
+A react based applciation which is inspired by the financial service stripe. The application provides a simialr feeling drop-down submenu from the elements of the nav bar, however, without the functionality of any of the items. Additionally, when the application is viewed on smaller browser windows then the application instead uses a sidebar to achieve the same functionality. The project also makes use of the Fa icons from the package react-icons. 
